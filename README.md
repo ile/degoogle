@@ -213,6 +213,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self-hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
 | [Open-Xchange](https://www.open-xchange.com) |  | A secure hosted email and productivity platform, designed for providers of all sizes to offer their customers email, calendar, storage, encryption and more. |
 | [Sandstorm](https://sandstorm.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/sandstorm-io/sandstorm)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/sandstorm-io/sandstorm?logo=github&style=flat-square) |  | An open-source self-hosted web hosting platform for a wide set of web applications, including Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban) |
+| [Aamu.app](https://aamu.app/) |  | Aamu.app has a suite of productivity apps integrated into one – tasks, helpdesk, emails, documents, graphic design, video meetings, database, form builder and more. |
 
 
 
